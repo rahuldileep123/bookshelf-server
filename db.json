@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://m.media-amazon.com/images/I/81FPzmB5fgL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "\"The Alchemist\" by Paulo Coelho follows Santiago, a shepherd boy, on a journey to discover his Personal Legend. Guided by omens and meeting a series of characters, he learns to listen to his heart and pursue his dreams. Through spiritual alchemy, he finds treasure and fulfills his destiny.",
+      "id": 4
+    },
+    {
+      "title": "Ikigai",
+      "author": "Francesc Miralles",
+      "image": "https://m.media-amazon.com/images/I/814L+vq01mL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "'Ikigai' by Hector Garcia and Francesc Miralles explores the Japanese concept of finding one's purpose in life by analyzing the habits and beliefs of the world's longest-living people. Through case studies, the book offers practical insights on how to live a more fulfilling life.",
+      "id": 5
+    }
+  ],
+  "favourites": [
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://m.media-amazon.com/images/I/81FPzmB5fgL._AC_UF1000,1000_QL80_.jpg",
+      "summary": "\"The Alchemist\" by Paulo Coelho follows Santiago, a shepherd boy, on a journey to discover his Personal Legend. Guided by omens and meeting a series of characters, he learns to listen to his heart and pursue his dreams. Through spiritual alchemy, he finds treasure and fulfills his destiny.",
+      "id": 4
+    }
+  ],
+  "wantToRead": [
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfbcPHNxpOSOD9Bcui4aVLDO99l3e3Zrbf_kWNb100ECYt2CTO",
+      "summary": "",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter",
+      "author": "Jk Rowling",
+      "image": "https://cdn.shopify.com/s/files/1/0070/1884/0133/t/8/assets/pf-b57dac15--Books8_1200x.jpg?v=1620061403",
+      "summary": "",
+      "id": 2
+    }
+  ]
+}
